@@ -10,7 +10,7 @@ This is a repository for notes from the Univariate Exploration of Data lesson of
 - [License](#license)
 
 ## Overview
-In these notes a data set containing different statistics for 807 different pokemon is examined using univariate visualizations. The `univariate_visualizations.ipynb` file goes through analysis of the data using bar charts and histograms using `matplotlib` and `seaborn` visualizations. Techniques such as separating out outliers using axis limits, and using scales and transformations to better visualize nonlinear relationships are also used. There are three additional Jupyter Notebooks which contain additional practice materials for each section of the lesson.
+In these notes a data set containing different statistics for 807 different pokemon is examined using univariate visualizations. The `univariate_visualizations.ipynb` file is analyzed through bar charts and histograms using `matplotlib` and `seaborn` visualizations. Techniques such as separating out outliers using axis limits, and using scales and transformations to better visualize nonlinear relationships are also used. There are three additional Jupyter Notebooks which contain additional practice materials for each section of the lesson.
 
 
 ## Requirements
@@ -21,7 +21,7 @@ This code depends on the following libraries:
 3. `matplotlib.pyplot`
 4. `seaborn`
 
-In addition to these, the Jupyter Notebooks assume that the data set, `pokemon.csv` have been extracted and is in the project folder.
+In addition to these, the Jupyter Notebooks assume that the data set, `pokemon.csv` has been extracted and is in the project folder.
 
 The Binder badge above can be used to explore an executable environment for the `univariate_visualizations.ipynb` file.
 
